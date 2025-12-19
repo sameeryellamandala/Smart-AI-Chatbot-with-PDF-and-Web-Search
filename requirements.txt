@@ -2,10 +2,8 @@ streamlit
 python-dotenv
 
 langchain==0.2.16
-langchain-core==0.2.38
 langchain-community==0.2.16
 langchain-text-splitters==0.2.4
-
 langchain-groq==0.1.9
 
 langgraph==0.2.34
