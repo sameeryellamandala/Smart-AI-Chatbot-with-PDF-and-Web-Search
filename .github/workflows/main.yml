@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force  https://shammulu:$HF_TOKEN@huggingface.co/spaces/shammulu/shammulu/Smart_AI_Chatbot_with_PDF_and_Web_Search main
+        run: git push --force  https://shammulu:$HF_TOKEN@huggingface.co/spaces/shammulu/Smart_AI_Chatbot_with_PDF_and_Web_Search main
