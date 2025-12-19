@@ -1,18 +1,18 @@
-streamlit
-python-dotenv
 
-langchain
-langchain-core
-langchain-community
-langgraph
-
-langchain-huggingface
-sentence-transformers
-huggingface_hub
-
-faiss-cpu
-
-langchain-text-splitters
-unstructured
-pypdf
-wikipedia
+ langchain
+ python-dotenv
+ langchain-community
+ langchain-core
+ streamlit
+ langchain-groq
+ langchain-text-splitters
+ faiss-cpu
+ langchain-chroma
+ langchain-huggingface
+ arxiv
+ wikipedia
+ langgraph
+ huggingface_hub
+ sentence-transformers
+ pypdf
+ 
