@@ -1,17 +1,18 @@
+streamlit
+python-dotenv
 
 langchain
-python-dotenv
-langchain_community
-langchain_core
-streamlit
-langchain-groq
- langchain-text-splitters
- faiss-cpu
- langchain_huggingface
- arxiv
- wikipedia
+langchain-core
+langchain-community
 langgraph
-langchainhub
-huggingface_hub
-pydantic
+
+langchain-huggingface
 sentence-transformers
+huggingface_hub
+
+faiss-cpu
+
+langchain-text-splitters
+unstructured
+pypdf
+wikipedia
