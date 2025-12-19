@@ -1,4 +1,4 @@
-langchain-openai
+
 langchain
 python-dotenv
 langchain_community
@@ -7,21 +7,10 @@ streamlit
 langchain-groq
  langchain-text-splitters
  faiss-cpu
- langchain-chroma
  langchain_huggingface
  arxiv
  wikipedia
 langgraph
 langchainhub
-SQLAlchemy
-mysql-connector-python
-validators == 0.28.1
-youtube_transcript_api
-unstructured
 huggingface_hub
-gradio
-pinecone-client
-langchain-pinecone
 pydantic
-langchain-nvidia-ai-endpoints
-sentence-transformers
