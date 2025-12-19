@@ -14,3 +14,4 @@ langgraph
 langchainhub
 huggingface_hub
 pydantic
+sentence-transformers
